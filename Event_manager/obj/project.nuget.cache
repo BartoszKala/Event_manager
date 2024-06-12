@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "169lMWTyI9yTprFnYRrgEHMhnTyV5UFdpsLT4wfzxvK1RqkWWyjqoPCzc7s5ngo/cM+EctxncgQdqTLgKFatDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\studia\\c#\\Event_manager\\Event_manager\\Event_manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
